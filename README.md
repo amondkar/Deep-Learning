@@ -3,4 +3,3 @@ Deep Learning
 ANN
 CNN
 RNN
-Attention
